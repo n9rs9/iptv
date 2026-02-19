@@ -1,0 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV1.dz" tvg-logo="https://i.imgur.com/7S6n8p7.png" group-title="Algérie",TV 1 (Public)
+https://algerie1.atlaas-content.com/algerie1/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalAlgerie.dz" group-title="Algérie",Canal Algérie (TV 2)
+https://algerie2.atlaas-content.com/algerie2/index.m3u8
+
+#EXTINF:-1 tvg-id="TV3.dz" group-title="Algérie",TV 3 (A3)
+https://algerie3.atlaas-content.com/algerie3/index.m3u8
+
+#EXTINF:-1 tvg-id="TV4.dz" group-title="Algérie",TV 4 (Tamazight)
+https://algerie4.atlaas-content.com/algerie4/index.m3u8
+
+#EXTINF:-1 tvg-id="SamiraTV.dz" group-title="Algérie",Samira TV
+http://samiratv.ice.infomaniak.ch/samiratv-768.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EchoroukTV.dz" group-title="Algérie",Echorouk TV
+https://echorouk.atlaas-content.com/echorouk/index.m3u8
+
+#EXTINF:-1 tvg-id="EnnaharTV.dz" group-title="Algérie",Ennahar TV
+https://ennahar.atlaas-content.com/ennahar/index.m3u8
+
+#EXTINF:-1 tvg-id="LinaTV.dz" group-title="Algérie",Lina TV
+https://linatv.atlaas-content.com/lina/index.m3u8
+
+#EXTINF:-1 tvg-id="France2.fr" group-title="France",France 2
+https://files.pando-iptv.top/france/france2.m3u8
+
+#EXTINF:-1 tvg-id="France3.fr" group-title="France",France 3
+https://files.pando-iptv.top/france/france3.m3u8
+
+#EXTINF:-1 tvg-id="Arte.fr" group-title="France",Arte FR
+https://artelive-lh.akamaihd.net/i/artelive_fr@393546/master.m3u8
+
